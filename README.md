@@ -25,6 +25,7 @@ Backend / Cloud Engineer with 8+ years experience across distributed systems, Io
 
 ## 📌 Featured Projects
 - 🔗 [RAG Knowledge Base](https://github.com/libterty/yiguandao-kb)
+- 🔗 [Claude Code Tool](https://github.com/libterty/cc-relay)
 - 🔗 [AHoy App](https://github.com/one-piece-team1)
 
 ## 📫 Contact
