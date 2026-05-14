@@ -24,6 +24,8 @@ Backend / Cloud Engineer with 8+ years experience across distributed systems, Io
 - AI: Python, FastAPI, RAG, Vector DB
 
 ## 📌 Featured Projects
+- 🔗 [Structural Pressure Model](https://github.com/libterty/structural-pressure-model)
+    - A socio-economic risk analysis model exploring housing burden, elite competition, labor stress, and AI shock scenarios across the US and Taiwan
 - 🔗 [RAG Knowledge Base](https://github.com/libterty/yiguandao-kb)
 - 🔗 [Claude Code Tool](https://github.com/libterty/cc-relay)
 - 🔗 [AHoy App](https://github.com/one-piece-team1)
