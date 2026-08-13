@@ -1,90 +1,107 @@
 # Hi, I'm YunChen 👋
 
-**Engineering Manager/Staff Engineer | Cloud & Backend Systems | AI Engineering**
+**Engineering Manager / Staff Engineer | Backend & Cloud Systems | AI Engineering**
 
-Engineering Manager/Staff Engineer with 8+ years of experience in distributed systems, IoT platforms, cloud infrastructure, and engineering leadership.
+I build backend systems, lead engineering teams, and explore how AI can improve real engineering workflows.
 
-I focus on building scalable systems, improving engineering execution, and applying AI to real-world engineering and management workflows.
+My background is mainly in distributed systems, IoT platforms, cloud infrastructure, and engineering leadership. More recently, I've been building RAG systems, AI agents, and reusable AI workflows for software engineering and engineering management.
+
+---
 
 ## 🚀 Featured Projects
 
 ### [Career Analyst KB](https://github.com/libterty/career-analyst-kb)
 
-An AI-powered career analysis and knowledge-base platform built with RAG and MAS architecture.
+An AI career analysis platform I built to experiment with **RAG, multi-agent workflows, and evidence-based decision making**.
 
-* Hybrid retrieval using Dense Search, BM25, and Reciprocal Rank Fusion
-* Multi-agent workflows for resume analysis, interview preparation, career planning, and salary analysis
-* Agent loop engineering, supervisor routing, fallback handling, and tool orchestration
-* Guardrails, evaluation harnesses, routing analysis, and prompt optimization
-* Built with FastAPI, TypeScript, Next.js, Milvus, PostgreSQL, Ollama, and VoltAgent
-* Local-first architecture with real-time responses through Server-Sent Events
+- Hybrid retrieval with Dense Search, BM25, and Reciprocal Rank Fusion
+- Specialist agents for resume analysis, interviews, career planning, and salary analysis
+- Supervisor routing, agent loops, fallback handling, and tool orchestration
+- Evaluation harnesses, guardrails, and routing analysis
+- FastAPI, TypeScript, Next.js, Milvus, PostgreSQL, Ollama, and VoltAgent
+- Local-first architecture with real-time responses over SSE
+
+One thing I'm particularly interested in here is figuring out **when multi-agent architecture is actually useful — and when a simpler workflow is better**.
 
 ### [Engineering Management Shared Skills](https://github.com/libterty/lib11-shared-skills)
 
-A reusable collection of AI skills for Engineering Managers, technical leaders, Claude Code, Codex, and other AI development tools.
+A collection of reusable AI skills built from engineering management problems I've encountered in practice.
 
-* Delivery health and project recovery
-* Incident communication and postmortems
-* Cloud cost and reliability reviews
-* Architecture Decision Records
-* One-on-one preparation and feedback planning
-* Hiring, capacity planning, and engineering metrics
-* Cross-team dependencies and stakeholder communication
-* Evidence-based outputs with explicit fact, pattern, and hypothesis classification
+- Delivery health and project recovery
+- Incident communication and postmortems
+- Architecture Decision Records
+- Cloud cost and reliability reviews
+- 1-on-1 preparation and feedback
+- Hiring and capacity planning
+- Engineering metrics
+- Cross-team dependencies and stakeholder communication
 
-## 💼 What I Do
+A core design principle is separating **facts, patterns, and hypotheses**, so AI outputs don't quietly turn assumptions into conclusions.
 
-* Lead and develop cross-functional engineering teams
-* Drive technical strategy, architecture, and delivery execution
-* Design and scale distributed backend systems
-* Build high-concurrency and event-driven data platforms
-* Improve cloud reliability, observability, and operational maturity
-* Optimize infrastructure cost and system performance
-* Introduce AI-assisted workflows into engineering organizations
-* Translate business goals into executable technical roadmaps
+---
 
 ## 📈 Selected Experience
 
-### IoT Cloud Platform
+### IoT & Cloud Platforms
 
-* Scaled the platform and product portfolio by approximately 10× while keeping infrastructure growth under control
-* Reduced AWS OpenSearch costs by approximately 50% through data lifecycle and storage architecture redesign
-* Established CI/CD, automated testing, observability, and production operation standards
-* Supported multiple IoT product lines involving telemetry, alerts, location tracking, video streaming, and device integration
+- Helped scale an IoT product portfolio by approximately **10×** while keeping infrastructure growth under control
+- Reduced AWS OpenSearch costs by approximately **50%** through data lifecycle and storage architecture redesign
+- Built and operated systems for telemetry, alerts, location tracking, video streaming, and device integration
+- Established CI/CD, automated testing, observability, and production operation practices across multiple product lines
 
-### AI and Knowledge Systems
+### Engineering Leadership
 
-* Designed RAG systems using dense and keyword-based hybrid retrieval
-* Built multi-agent workflows with specialist agents and supervisor routing
-* Developed evaluation and feedback loops for improving agent reliability
-* Created reusable AI skills for engineering management and operational decision-making
-* Integrated AI capabilities into backend and engineering workflows
+- Led cross-functional engineering teams across backend, frontend, firmware, DevOps, and UI/UX
+- Worked across architecture, delivery, hiring, mentoring, and stakeholder alignment
+- Stayed hands-on with architecture reviews, production issues, and difficult technical problems
+
+### AI Engineering
+
+- Built RAG systems using dense + keyword hybrid retrieval
+- Designed multi-agent workflows with specialist agents and supervisor routing
+- Developed evaluation and feedback loops for improving agent reliability
+- Created reusable AI workflows for engineering management and technical decision-making
+
+---
 
 ## 🛠️ Tech Stack
 
-* **Leadership:** Engineering Management, Technical Strategy, Delivery Management, Hiring, Mentoring, Stakeholder Management
-* **Backend:** Node.js, TypeScript, Python, Golang
-* **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Docker, EKS, Pulumi, Helm
-* **Data & Messaging:** PostgreSQL, Redis, Kafka, NSQ, OpenSearch, Milvus
-* **AI Engineering:** RAG, Agent Systems, Vector Search, Hybrid Retrieval, Ollama, VoltAgent
-* **Observability:** Grafana, Loki, Tempo, OpenTelemetry
-* **Architecture:** Distributed Systems, Domain-Driven Architecture, Event-Driven Architecture, Multi-Tenant Platforms, Microservices
+**Backend**  
+Node.js · TypeScript · Python · Golang
+
+**Cloud & Infrastructure**  
+AWS · GCP · Kubernetes · EKS · Docker · Pulumi · Helm
+
+**Data & Messaging**  
+PostgreSQL · Redis · Kafka · NSQ · OpenSearch · Milvus
+
+**AI Engineering**  
+RAG · Agent Systems · Vector Search · Hybrid Retrieval · Ollama · VoltAgent
+
+**Observability**  
+OpenTelemetry · Grafana · Loki · Tempo
+
+**Architecture**  
+Distributed Systems · Event-Driven Architecture · DDD · Microservices · Multi-Tenant Platforms
+
+---
 
 ## 🧩 Other Projects
 
-* [Structural Pressure Model](https://github.com/libterty/structural-pressure-model)
-  A socio-economic risk analysis model exploring housing burden, elite competition, labor stress, and AI-driven disruption across the United States and Taiwan.
+### [Structural Pressure Model](https://github.com/libterty/structural-pressure-model)
+A socio-economic risk model exploring housing burden, elite competition, labor stress, and AI-driven disruption across Taiwan and the United States.
 
-* [RAG Knowledge Base](https://github.com/libterty/yiguandao-kb)
-  A domain-specific knowledge system built with retrieval-augmented generation.
+### [RAG Knowledge Base](https://github.com/libterty/yiguandao-kb)
+A domain-specific knowledge system built with retrieval-augmented generation.
 
-* [Claude Code Relay](https://github.com/libterty/cc-relay)
-  Development tooling for AI-assisted coding workflows.
+### [Claude Code Relay](https://github.com/libterty/cc-relay)
+Development tooling and experiments around AI-assisted coding workflows.
 
-* [AHoy App](https://github.com/one-piece-team1)
-  A collaborative application project.
+### [AHoy App](https://github.com/one-piece-team1)
+A collaborative application project.
+
+---
 
 ## 📫 Contact
 
-* [LinkedIn](https://www.linkedin.com/in/yunchen-li-53980ab7/)
-* [Medium](https://medium.com/@lib11)
+[LinkedIn](https://www.linkedin.com/in/yunchen-li-53980ab7/) · [Medium](https://medium.com/@lib11)
